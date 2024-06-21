@@ -1,9 +1,10 @@
 # Tomato-disease-detection
 Our group members:
-  -Yeni Septiani Putri (F1D022027)
-  -Ida Ayu Dewi Purnama Anjani (F1D022050)
+  - Yeni Septiani Putri (F1D022027)
+  - Ida Ayu Dewi Purnama Anjani (F1D022050)
   - M. Ario Ferdian Pratama (F1D022060)
   - Muhammad Zidan Azzaki (F1D022080)
+  - Mahardika Naufal Nugroho (F1D022136)
 
 # LATAR BELAKANG
 
