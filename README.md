@@ -13,11 +13,11 @@ Our group members:
 
 
 # TAHAPAN PREPROCESSING
+  - grayscale = mengubah citra menjadi keabuan
   - equalization = Digunakan untuk mendapatkan contrast enhancement
   - edge detection = digunakan untuk mendeteksi tepi fitur
   - sharpening = digunakan untuk mempertajam tepi fitur
   - smootihing = digunakan untuk memperhalus hasil penajaman tepi fitur
-  - Treshold = digunakan untuk menfokuskan citra pada 2 kriteria warna
 
 # ANALISA
 ## HASIL SEBELUM PREPROCESSING
